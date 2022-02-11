@@ -29,7 +29,7 @@ Submission (click for link) | feature['engineering', 'wrangling'] | imputated: N
 [Jack-0 Rose-1](https://www.kaggle.com/shub99/jack-0-rose-1)|Features untouched|No imputations|No scaling|Dummified all features|The original, data almost untouched
 [Lets save Jack!!](https://www.kaggle.com/kabier/lets-save-jack)|Converted ticked into numerical by striping all other characters - Clustered families - dropped Cabin, Name, No_of_passenger, SibSp|Age -> Mean - Fare -> Median - Embarked -> 'S'|No scaling|Dummified Sex, Embarked, Title, family_group, Ticket|NaNs arbitrarily imputed - Many features dropped - Tried many models, not clear which criteria used or if some bias is possible this way
 [Shap on Titanic: why is Rose alive but Jack not ?](https://www.kaggle.com/meliao/shap-on-titanic-why-is-rose-alive-but-jack-not)|FORBIDDEN|DATA|DO NOT|ATTEMPT|TO SEE
-[Jack die or Rose die?](https://www.kaggle.com/aplayer98/jack-die-or-rose-die)|>I had so much fun with the penguins|>and watching at submissions|>That time passed by|>And now it's late|>I am sorry
+[Jack die or Rose die?](https://www.kaggle.com/aplayer98/jack-die-or-rose-die)|`I had too much fun with the penguins`|`and watching at submissions`|`That time passed by very fast`|`And now it's late`|`I am sorry. I'm afraid I can't do that, Dave.`
 ||||||
 ||||||
 ||||||
