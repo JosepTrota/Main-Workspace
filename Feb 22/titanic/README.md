@@ -21,13 +21,6 @@
 
 ## Looking_up_other_submissions
 
-### Features_to_check
-- any feature engineering or feature wrangling methods which you have seen? 
-
-- did they impute any missing values? 
-
--  what about scaling methods for numerical variables?
-
-- what about encoding categorical variables?
-
-- any evidence of overfit or sampling bias ? 
+### Name (click for link) | feature['engineering', 'wrangling'] | imputated: NaN [y/n] | Scaling_num | Encoding_cat | Overfit and Sampling_Bias [y/n]
+---|---|---|---|---|---
+||||||
