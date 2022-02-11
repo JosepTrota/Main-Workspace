@@ -25,4 +25,5 @@
 
 Name (click for link) | feature['engineering', 'wrangling'] | imputated: NaN [y/n] | Scaling_num | Encoding_cat | Overfit and Sampling_Bias [y/n]
 ---|---|---|---|---|---
-[Is Jack Alive?](https://www.kaggle.com/shaz13/is-jack-alive-86-8)|a| Nulls in Age changed to reflect the correlation between age and class \n All the Nulls in Cabin changed for "Not having a cabin"|a|a|Encoding Sex and Embarked in the beginning of the code|a
+[Is Jack Alive?](https://www.kaggle.com/shaz13/is-jack-alive-86-8)|a| Nulls in Age changed to reflect the correlation between age and class
+All the Nulls in Cabin changed for "Not having a cabin"|a|a|Encoding Sex and Embarked in the beginning of the code|a
