@@ -1,5 +1,7 @@
 # Titanic lab
 
+![alt text](https://pbs.twimg.com/media/CaNgx-FWQAACiiE.png "Come on Rose...")
+
 ***
 
 ## My_EDA
@@ -23,4 +25,4 @@
 
 Name (click for link) | feature['engineering', 'wrangling'] | imputated: NaN [y/n] | Scaling_num | Encoding_cat | Overfit and Sampling_Bias [y/n]
 ---|---|---|---|---|---
-a|a|a|a|a|a|a
+[name](url)|a|a|a|a|a|a
