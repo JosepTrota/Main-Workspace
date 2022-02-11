@@ -21,6 +21,6 @@
 
 ## Looking_up_other_submissions
 
-### Name (click for link) | feature['engineering', 'wrangling'] | imputated: NaN [y/n] | Scaling_num | Encoding_cat | Overfit and Sampling_Bias [y/n]
+Name (click for link) | feature['engineering', 'wrangling'] | imputated: NaN [y/n] | Scaling_num | Encoding_cat | Overfit and Sampling_Bias [y/n]
 ---|---|---|---|---|---
-||||||
+a|a|a|a|a|a|a
