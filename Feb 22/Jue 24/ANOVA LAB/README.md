@@ -23,6 +23,7 @@
 | 180 W | 6.238000 |
 | 200 W | 8.318000 |
 
-**CONCLUSIONS**
+## **CONCLUSIONS**
+
 According to thedata given, there clearly seems to be a relationship between the power and the etching, so to make business decisions taking that into account would be wise.
 If you want more etching, you have to use more power :muscle:
