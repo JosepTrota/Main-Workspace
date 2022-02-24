@@ -25,6 +25,8 @@
 | 180 W | 6.238000 |
 | 200 W | 8.318000 |
 
+![means barchart](https://github.com/JosepTrota/Main-Workspace/blob/main/Feb%2022/Jue%2024/ANOVA%20LAB/Barchart%20average%20etching.png?raw=true)
+
 ***
 
 ## **CONCLUSIONS**
