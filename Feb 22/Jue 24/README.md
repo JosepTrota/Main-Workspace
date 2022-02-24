@@ -1,4 +1,4 @@
-## <p align="center"> FOR THE DATA USED IN JUPYTER NOTEBOOK </p>
+## <p align="center"> FOR THE DATA USED IN JUPYTER NOTEBOOK :mag: </p>
 | QUESTION | ANSWER |
 |---|---|
 | **Null hypothesis** | There is no relationship between the display and the increase of sales. |
