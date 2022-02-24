@@ -8,10 +8,18 @@
 | **Error terms** | Errors or residuals are the segments of scores not accounted for by the analysis. |
 | **Total degrees of freedom** | We have 20 observations, so the total DoF is 19 (total readings minus one), as we are looking at sample averages. |
 
+>Now, what do the results tell us?
+
+| df | sum_sq	| mean_sq |	F |	PR(>F)|
+| C(power) |	2.0	| 18.176653	| 9.088327	| 36.878955	| 0.000008 |
+| Residual	| 12.0	| 2.957240	| 0.246437	| NaN	| NaN |
+
+> What about the means?
+
 |**MEANS**||
 |---|---|
 | 160 W | 5.792000 |
 | 180 W | 6.238000 |
 | 200 W | 8.318000 |
-|---|---|
-| **CONCLUSIONS** | According to thedata given, there clearly seems to be a relationship between the power and the etching, so to make business decisions taking that into account would be wise |
+|||
+| **CONCLUSIONS** | According to thedata given, there clearly seems to be a relationship between the power and the etching, so to make business decisions taking that into account would be wise. If you want more etching, you have to use more power. |
