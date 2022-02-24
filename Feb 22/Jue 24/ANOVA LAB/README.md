@@ -10,8 +10,8 @@
 
 ### Now, what do the results tell us?
 
-| df | sum_sq	| mean_sq |	F |	PR(>F)|
-|---|---|---|---|---|
+|| df | sum_sq	| mean_sq |	F |	PR(>F)|
+|---|---|---|---|---|---|
 | C(power) |	2.0	| 18.176653	| 9.088327	| 36.878955	| 0.000008 |
 | Residual	| 12.0	| 2.957240	| 0.246437	| NaN	| NaN |
 
