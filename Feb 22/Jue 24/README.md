@@ -1,5 +1,5 @@
 ## FOR THE DATA USED IN JUPYTER NOTEBOOK
-| Question | Answer |
+| QUESTION | ANSWER |
 |---|---|
 | **Null hypothesis** | there is no relationship between the display and the increase of sales. |
 | **Alternate hypothesis** | there is a relationship between the display and the increase of sales. |
