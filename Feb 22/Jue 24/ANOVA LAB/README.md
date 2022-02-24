@@ -8,6 +8,8 @@
 | **Error terms** | Errors or residuals are the segments of scores not accounted for by the analysis. |
 | **Total degrees of freedom** | We have 20 observations, so the total DoF is 19 (total readings minus one), as we are looking at sample averages. |
 
+***
+
 ### Now, what do the results tell us?
 
 || df | sum_sq	| mean_sq |	F |	PR(>F)|
@@ -29,3 +31,5 @@
 
 According to thedata given, there clearly seems to be a relationship between the power and the etching, so to make business decisions taking that into account would be wise.
 If you want more etching, you have to use more power :muscle:
+
+***
